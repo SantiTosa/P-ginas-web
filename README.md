@@ -1,2 +1,2 @@
-# P-ginas-web
+# Paginas-web
 Ejemplos de páginas web
